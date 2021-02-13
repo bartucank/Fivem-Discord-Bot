@@ -5,7 +5,8 @@ module.exports.options = {
     ],
     roles: ["@everyone"],
     servers: [
-        { name: 'nefes', url: 'FIVEM IP', alias: 'LosSantos' }
+        { name: 'status', url: 'FIVEM IP', alias: 'LosSantos' }
+	//{ name: 'status2', url: 'FIVEM IP', alias: 'LosSantos' }
     ],
     pollRate: 30,
 };

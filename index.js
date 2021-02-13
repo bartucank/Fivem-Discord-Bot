@@ -25,7 +25,7 @@ const getPlayers = async server => {
 
 
 client.on('ready', () => {
-  console.log('Hazırım Patron!');
+  console.log('online!');
   console.log(` https://discordapp.com/api/oauth2/authorize?client_id=${client.user.id}&permissions=67176464&scope=bot`);
 });
 
@@ -50,7 +50,7 @@ client.setInterval(async () => {
   for (const value of servers) {
     counts.push(`${value.name}: ${value.count}`);
   }
-  counts.push(`Toplam: ${total}  | !nefes & !nefes2`);
+  counts.push(`Total: ${total}  | !status`);
   const topic = counts.join(' | ');
 
 
