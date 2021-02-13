@@ -9,8 +9,8 @@
  
  
  <h1>Installation</h1>
-1. npm install
  
+1. npm install 
 2. node index.js
 
 Thats all!
