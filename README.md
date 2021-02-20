@@ -14,7 +14,7 @@
 3. axios (library)
 4. lodash (library)
 
-Thats all!
+
 
  <h1>Installation</h1>
  
