@@ -1,3 +1,5 @@
+# This repository hasn't been updated for a long time! There may be security vulnerabilities due to package updates. Please make your version updates before using.
+
 # Fivem Discord Bot
  A bot that shows the player list for Fivem servers o the discord channel. Written in javascript
  
@@ -25,4 +27,3 @@ Thats all!
 
 
 
-This repository hasn't been updated for a long time! There may be security vulnerabilities due to package updates. Please make your version updates before using.
